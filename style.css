@@ -1,0 +1,5 @@
+.ui.borderless.topmenu.menu {
+  background-color: hsl(0, 0%, 90%);
+  box-shadow: none;
+  border: none;
+}
