@@ -8,3 +8,8 @@
   box-shadow: none;
   border: none;
 }
+
+.ui.column {
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
